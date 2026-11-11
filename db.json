@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "sankar",
+      "Email": "sankar@gmail"
+    },
+    {
+      "id": "2",
+      "name": "sampath",
+      "Email": "sampath@gmail"
+    }
+  ]
+ 
+}
